@@ -1,0 +1,10 @@
+import numpy as np
+x=np.array([2,5,8])
+y=np.array([1,5,7])
+print(x+y)
+print(np.char.split(['hello hii']))
+print(np.char.islower(['juao']))
+a=np.arange(1,13)
+print(a)
+p=a.reshape(2,2,3)
+print(p)
